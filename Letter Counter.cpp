@@ -116,15 +116,9 @@ int main()
 
     /* ######### Output Spaghettios To Books ######### */
 
-    for (int x = 0; x < 3; x++) {
+    
         cout << "\nCalculating Spaghettio's to Books.";
-        Sleep(300);
-        cout << ".";
-        Sleep(300);
-        cout << ".";
-        Sleep(300);
-        system("CLS");
-    }
+ 
     
 
     for (int x = 0; x < 26; x++) {
